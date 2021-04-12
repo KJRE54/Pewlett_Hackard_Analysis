@@ -7,7 +7,7 @@ SELECT employees.emp_no,
 	   titles.title,
 	   titles.from_date,
 	   titles.to_date
---INTO retirement_titles	
+INTO retirement_titles	
 FROM titles
 LEFT JOIN employees
 ON titles.emp_no = employees.emp_no
@@ -27,7 +27,7 @@ ORDER BY emp_no ASC, to_date DESC;
 -- Determine the # of employees by job titles
 
 SELECT COUNT (unique_titles.emp_no), unique_titles.title
--- INTO retiring_titles
+INTO retiring_titles
 FROM unique_titles
 GROUP BY title
 ORDER BY COUNT(*) DESC;
