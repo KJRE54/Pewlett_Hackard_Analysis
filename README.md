@@ -18,6 +18,18 @@ Based on the analysis, the Four major points that are notable as it relates to t
 
 + Among the pool of potential Mentorship Program eligible programs, there exists 286 Senior Engineers, 422 Senior Staffers, and 403 Engineers that could stay to support business continuity and knowledge transfer.
 
+Count  %   Title
+29414	33%	Senior Engineer
+28254	31%	Senior Staff
+14222	16%	Engineer
+12243	14%	Staff
+4502	5%	Technique Leader
+1761	2%	Assistant Engineer
+2	0%	Manager
+		
+90398	Unique Titles	
+![image](https://user-images.githubusercontent.com/79073778/114338691-9589e380-9b21-11eb-8b28-4c6c994a1052.png)
+
 
 ## Summary Response ---
 (1) As the "silver tsunami" begins to impact the company, there will be a need to replace 90,398 employees that will be exiting for retirement.
